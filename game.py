@@ -1,4 +1,4 @@
 print 'Hello World'
-
-input()
+a=input()
+print 'message',a
 
